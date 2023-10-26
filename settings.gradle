@@ -1,0 +1,2 @@
+rootProject.name = "Stray Care App"
+include ':app'
